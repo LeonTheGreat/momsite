@@ -3,7 +3,7 @@
 title: Gina Edwards Psychotherapy
 locale: en_US
 description: Gina Edwards, Psychotherapist
-logo: images/logo.png
+logo: logo.png
 url: http://ginaedwardsphd.com
 
 # Jekyll configuration
@@ -27,14 +27,14 @@ kramdown:
   toc_levels: 1..2
   enable_coderay: false
 
-mathjax: true
+mathjax: false
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
-comments: true
+comments: false
 
 # Site owner
 owner:
   name: Gina Edwards
-  avatar: avatar.jpg
+  avatar: logo.png
