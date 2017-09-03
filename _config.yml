@@ -1,4 +1,6 @@
 # Site wide configuration
+redirect_from:
+  - http://ginaedwards.com
 
 title: Gina Edwards, Ph.D., N.C.C.
 locale: en_US
