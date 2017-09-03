@@ -1,4 +1,7 @@
 # Site wide configuration
+plugins:
+  - jekyll-redirect-from
+
 redirect_from:
   - http://ginaedwards.com
 
